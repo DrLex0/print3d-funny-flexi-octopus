@@ -52,8 +52,9 @@ If you switch to my Flexi Octopus, you only need to update the name and your att
 If you want to print and sell the Funny Flexi Octopus, keep in mind that it is released under a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). My interpretation of this license is the following.
 
 * If you **sell or give away prints** of this model, you need to mention *“Funny Flexi Octopus by DrLex”* and provide a visible link to this GitHub page both on your shop website, and on a piece of paper included with physical printed objects. I have provided PDF files with ready-to-print attribution cards for your convenience.
-* If you **remix** this model and publish that remix, the remix must have the same license or a more restrictive one. You must provide a visible link to this GitHub page wherever your remix is published. If you sell prints of that remix, the original source should be attributed as described in the previous point.
-* You **do not need to ask explicit permission** from me to sell prints of this model. Just do the above. Of course it is fine for you to drop me a message, but you don't need to.
+* If you **remix** this model and you sell prints of that remix, the origin should be attributed as described in the previous point. You can change the message to *“based on Funny Flexi Octopus by DrLex.”* You don't need to use the same attribution cards, but it must be obvious that your prints were derived from my model.
+* You are *not* obliged to make the 3D model for a **remix** available, this is not a `SA` license. If you do publish the 3D model, it must have the same `CC BY` license or a more restrictive one. You must provide a visible link to this GitHub page wherever your remixed model is published.
+* You **do not need to ask explicit permission** from me to sell prints of this model or a remix. Just do the above. Of course it is fine for you to drop me a message, but you don't need to.
 * You **do not need to share profits,** although of course you may. [On my site you can find a few ways to donate](https://www.dr-lex.be/about/#contact), should you want to.
 
 
