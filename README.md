@@ -57,6 +57,14 @@ If you want to print and sell the Funny Flexi Octopus, keep in mind that it is r
 * You **do not need to ask explicit permission** from me to sell prints of this model or a remix. Just do the above. Of course it is fine for you to drop me a message, but you don't need to.
 * You **do not need to share profits,** although of course you may. [On my site you can find a few ways to donate](https://www.dr-lex.be/about/#contact), should you want to.
 
+### Practical: when displaying this model on a webpage or in a video
+
+To comply with the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/), you need to provide *attribution,* which is really simple.
+
+* If you display photos of the 3D model or of 3D printed copies on a webpage: add a message that links to this GitHub repository, like this:\
+  “[Funny Flexi Octopus by DrLex](https://github.com/DrLex0/print3d-funny-flexi-octopus), released under a [CC BY license](https://creativecommons.org/licenses/by/4.0/).”
+* If you show the model or prints of it in a video: include the same message, either spoken, in a text overlay, or in the video's ‘end credits.’ If the video has a separate textual description, add the same message with link as above.
+
 
 ## Common Sense
 
